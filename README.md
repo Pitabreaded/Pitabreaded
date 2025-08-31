@@ -6,7 +6,7 @@
   - [osTicket: Installation Walkthrough](https://github.com/pitabreaded/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory and Fileshare](https://github.com/pitabreaded/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/pitabreaded/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Monitoring Network Protocols](https://github.com/pitabreaded/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
